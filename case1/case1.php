@@ -1,6 +1,6 @@
 <?php
 
-#cLASSE 
+#cLASSE //
 require 'produto.php';
 
 $p1 = new Produto();
