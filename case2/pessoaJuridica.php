@@ -7,5 +7,7 @@ class PessoaJuridica extends Pessoa{
         // propriedade protected
         $this->documento = $documento;
     }
+
+
 }
 ?>
